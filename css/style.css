@@ -69,5 +69,16 @@ header	{padding: 25px 0;}
 /*Banner Start */ 
 .bannar {}
 .b_img {}
-.b_img img {width: 100%;}
+.b_img img {width: 100%}
 /*Banner End*/
+
+/* Blog Start*/
+.blog {}
+.container2 {margin: 0 auto;
+	width: 80%;
+	overflow: hidden;
+	border: 1px solid red;}
+.light {}
+.titel {}
+.text {}
+/* Blog End*/
